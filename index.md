@@ -2,14 +2,14 @@
 
 This is a default site I haven't [edited on GitHub](https://github.com/F31-code/F31-code.github.io/edit/main/index.md) but that will soon be a website for my Docs 'n' stuff.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website doesn't really have a point, and is not exactly designed to be a documentation guide. Call it an experiment if you like...
 
-### Markdown
+### Some ideas for this site?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+An idea for this site is a code-haven, but we'll pass on that idea... At least, for now...
 
 ```markdown
-Syntax highlighted code block
+_This section is currently unedited_
 
 # Header 1
 ## Header 2
