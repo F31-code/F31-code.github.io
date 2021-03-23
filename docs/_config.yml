@@ -1,3 +1,7 @@
+
+github:
+  is_project_page: false
+  
 theme: jekyll-theme-slate
 title: F31-Docs
 description: Feel free to bookmark this to keep an eye on my project updates
