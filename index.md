@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to F31 Docs
 
-You can use the [editor on GitHub](https://github.com/F31-code/F31-code.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is a default site I haven't [edited on GitHub](https://github.com/F31-code/F31-code.github.io/edit/main/index.md) But that will soon be a website for my Docs 'n' stuff.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
