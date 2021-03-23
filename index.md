@@ -1,6 +1,6 @@
 ## Welcome to F31 Docs
 
-This is a default site I haven't [edited on GitHub](https://github.com/F31-code/F31-code.github.io/edit/main/index.md) But that will soon be a website for my Docs 'n' stuff.
+This is a default site I haven't [edited on GitHub](https://github.com/F31-code/F31-code.github.io/edit/main/index.md) but that will soon be a website for my Docs 'n' stuff.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
