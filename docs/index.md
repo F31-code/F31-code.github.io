@@ -9,7 +9,7 @@ This website doesn't really have a point, and is not exactly designed to be a do
 An idea for this site is a code-haven, but we'll pass on that idea... At least, for now...
 
 ```markdown
-_This section is currently unedited_
+_This section is currently unedited, for a personal note for myself to know how to make a this kind of website_
 
 # Header 1
 ## Header 2
@@ -25,5 +25,3 @@ _This section is currently unedited_
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
