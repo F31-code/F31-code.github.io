@@ -1,27 +1,27 @@
-# Welcome to F31 WebDocs
+# Welcome to F31-Docs
 
-This is a default site I haven't [edited on GitHub](https://github.com/F31-code/F31-code.github.io/edit/main/index.md) but that will soon be a website for my Docs 'n' stuff.
+this is a default site I haven't fully [edited on GitHub](https://github.com/F31-code/F31-code.github.io/edit/main/index.md) but that will soon be a website for my Docs 'n' stuff.
 
-This website doesn't really have a point, and is not exactly designed to be a documentation guide. Call it an experiment if you like...
+this website doesn't really have a point, and is not exactly designed to be a documentation guide. call it an experiment if you like...
 
-### Some ideas for this site?
+### any ideas for this site?
 
-An idea for this site is a code-haven, but we'll pass on that idea... At least, for now...
+an idea for this site is a code-haven, but I can't be bothered to do that, so I'll pass on that for now..
 
 ```markdown
-_This section is currently unedited, for a personal note for myself to know how to make a this kind of website_
+_this section hasn't been fully edited, for a personal note to self on how to make this kind of site_
 
-# Header 1
-## Header 2
-### Header 3
+# header 1
+## header 2
+### header 3
 
-- Bulleted
-- List
+- bulleted
+- list
 
-1. Numbered
-2. List
+1. numbered
+2. list
 
-**Bold** and _Italic_ and `Code` text
+**bold** and _italic_ and `code` and ``` code block```
 
-[Link](url) and ![Image](src)
+[hyperlink](url) and ![Image](src)
 ```
