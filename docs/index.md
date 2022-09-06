@@ -9,7 +9,7 @@ this website doesn't really have a point, and is not exactly designed to be a do
 So, let's start, shall we?
 
 ## External Docs to get started on:
-The [SYSlang Documentation & Guides](https://docs.pipewarp.co.uk/SYSlang)
+The [SYSlang Documentation & Guides](https://docs.systemwarwe.ga/SYSlang)
 
 ## My Docs:
 Docs on my all new [SYSlang Colours GUI](https://f31-code.github.io/docs/syslcolor)
@@ -32,4 +32,4 @@ _this section hasn't been fully edited, for a personal note to self on how to ma
 
 [hyperlink](url) and ![Image](src-url)
 ```
-`imagine comments in markdown`
+> `imagine comments in markdown`
