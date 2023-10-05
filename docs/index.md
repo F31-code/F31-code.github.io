@@ -1,20 +1,17 @@
 # Welcome to F31-Docs
 
-this is a default site I haven't fully edited.
+> **Disclaimer**:
+> This site is a constant Work in Progress. Expect continuous changes.
 
-this website doesn't really have a point, and is not exactly designed to be a documentation guide. call it an experiment if you like...
-
-### any ideas for this site?
-
-So, let's start, shall we?
+this website isn't complete, and is not designed to be a documentation guide. call it an experiment if you like...
 
 ## External Docs to get started on:
-The [SYSlang Documentation & Guides](https://docs.systemwarwe.ga/SYSlang)
+The [SYSlang Documentation & Guides](about://blank) (I can't find the link, when I do it'll get updated :>)
 
 ## My Docs:
 Docs on my all new [SYSlang Colours GUI](https://f31-code.github.io/docs/syslcolor)
 
-# Ignore what comes next
+<!-- # Ignore what comes next
 ```markdown
 _this section hasn't been fully edited, for a personal note to self on how to make this kind of site_
 
@@ -33,3 +30,5 @@ _this section hasn't been fully edited, for a personal note to self on how to ma
 [hyperlink](url) and ![Image](src-url)
 ```
 > `imagine comments in markdown`
+-->
+###### More coming soon™️
